@@ -1,0 +1,5 @@
+Driver	Total Rides	Total Distance	Total Fare
+Ali  	3         		37.5 km		RM 71.75
+Mei  	2         		15.2 km		RM 35.5
+Ravi 	3         		19.5 km		RM 42.75
+Sara 	2         		20.5 km		RM 40.5
