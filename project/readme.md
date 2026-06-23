@@ -1,1 +1,11 @@
-Projects
+### 🔍 Overview
+This collaborative data science project focused on evaluating the environmental impact of the transportation sector by analyzing vehicle carbon dioxide ($CO_2$) emissions. Working in a group of up to 5 members, we executed an end-to-end data analytics lifecycle using Python to bridge real-world emission data with local vehicle registration trends. The project specifically merged fuel consumption patterns (from a 2014 baseline dataset) with 2025 Malaysian car registration data (Cars2025.csv) to uncover insights into the relationship between vehicle characteristics and environmental footprints.
+
+### 🛠️ Key Takeaways & Implementation
+- Phase I: Data Preparation & Wrangling: I performed extensive data cleaning, handling missing values and anomalies across datasets. A core challenge was cross-dataset schema matching—aligning diverse vehicle configurations to accurately merge fuel consumption attributes with regional registration counts, followed by multi-level data aggregation and group operations.
+- Phase II: Summary Analytics & Visualization: Using Python libraries (such as Pandas, Matplotlib, and Seaborn), I engineered summary statistics and exploratory data analysis (EDA) workflows. We designed custom visualizations to clearly map out fuel consumption trends and identify high-emission vehicle categories.
+- Machine Learning Application: To transition from descriptive to predictive analytics, we applied Machine Learning techniques (classification or clustering algorithms). This allowed us to segment car manufacturers and specific vehicle models into distinct environmental impact categories based on their carbon emission profiles.
+- Jupyter Notebook Documentation: Developed cleanly documented, reproducible code within a Jupyter Notebook (.ipynb), embedding explanatory markdowns alongside technical code execution and data pipelines.
+
+### 💡 Conclusion
+This project provided immense hands-on experience navigating the complexities of fragmented, multi-year real-world datasets. By applying machine learning and structural data wrangling to an urgent global challenge like $CO_2$ emissions, I strengthened my ability to transform raw, disconnected tabular data into actionable environmental analytics and clean visual stories.
